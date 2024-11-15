@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\FullStack C#\\.Net Demos\\DatabasefirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA54E70-E4AD-4E01-A74C-714C66EA4474}|DatabasefirstApproach\\DatabasefirstApproach.csproj|f:\\fullstack c#\\.net demos\\databasefirstapproach\\databasefirstapproach\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA54E70-E4AD-4E01-A74C-714C66EA4474}|DatabasefirstApproach\\DatabasefirstApproach.csproj|solutionrelative:databasefirstapproach\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA54E70-E4AD-4E01-A74C-714C66EA4474}|DatabasefirstApproach\\DatabasefirstApproach.csproj|f:\\fullstack c#\\.net demos\\databasefirstapproach\\databasefirstapproach\\models\\demomodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{9AA54E70-E4AD-4E01-A74C-714C66EA4474}|DatabasefirstApproach\\DatabasefirstApproach.csproj|solutionrelative:databasefirstapproach\\models\\demomodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA54E70-E4AD-4E01-A74C-714C66EA4474}|DatabasefirstApproach\\DatabasefirstApproach.csproj|f:\\fullstack c#\\.net demos\\databasefirstapproach\\databasefirstapproach\\models\\stable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA54E70-E4AD-4E01-A74C-714C66EA4474}|DatabasefirstApproach\\DatabasefirstApproach.csproj|solutionrelative:databasefirstapproach\\models\\stable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA54E70-E4AD-4E01-A74C-714C66EA4474}|DatabasefirstApproach\\DatabasefirstApproach.csproj|f:\\fullstack c#\\.net demos\\databasefirstapproach\\databasefirstapproach\\models\\demomodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA54E70-E4AD-4E01-A74C-714C66EA4474}|DatabasefirstApproach\\DatabasefirstApproach.csproj|solutionrelative:databasefirstapproach\\models\\demomodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA54E70-E4AD-4E01-A74C-714C66EA4474}|DatabasefirstApproach\\DatabasefirstApproach.csproj|f:\\fullstack c#\\.net demos\\databasefirstapproach\\databasefirstapproach\\views\\demo\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9AA54E70-E4AD-4E01-A74C-714C66EA4474}|DatabasefirstApproach\\DatabasefirstApproach.csproj|solutionrelative:databasefirstapproach\\views\\demo\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Getall.cshtml",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\DatabasefirstApproach\\DatabasefirstApproach\\Views\\Demo\\Getall.cshtml",
+              "RelativeDocumentMoniker": "DatabasefirstApproach\\Views\\Demo\\Getall.cshtml",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\DatabasefirstApproach\\DatabasefirstApproach\\Views\\Demo\\Getall.cshtml",
+              "RelativeToolTip": "DatabasefirstApproach\\Views\\Demo\\Getall.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:57:28.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoModel.Context.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\DatabasefirstApproach\\DatabasefirstApproach\\Models\\DemoModel.Context.cs",
+              "RelativeDocumentMoniker": "DatabasefirstApproach\\Models\\DemoModel.Context.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\DatabasefirstApproach\\DatabasefirstApproach\\Models\\DemoModel.Context.cs",
+              "RelativeToolTip": "DatabasefirstApproach\\Models\\DemoModel.Context.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:48:17.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stable.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\DatabasefirstApproach\\DatabasefirstApproach\\Models\\Stable.cs",
+              "RelativeDocumentMoniker": "DatabasefirstApproach\\Models\\Stable.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\DatabasefirstApproach\\DatabasefirstApproach\\Models\\Stable.cs",
+              "RelativeToolTip": "DatabasefirstApproach\\Models\\Stable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:47:27.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoModel.edmx [Diagram1]",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\DatabasefirstApproach\\DatabasefirstApproach\\Models\\DemoModel.edmx",
+              "RelativeDocumentMoniker": "DatabasefirstApproach\\Models\\DemoModel.edmx",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\DatabasefirstApproach\\DatabasefirstApproach\\Models\\DemoModel.edmx [Diagram1]",
+              "RelativeToolTip": "DatabasefirstApproach\\Models\\DemoModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-04T20:46:15.127Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "F:\\FullStack C#\\.Net Demos\\DatabasefirstApproach\\DatabasefirstApproach\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "DatabasefirstApproach\\Controllers\\DemoController.cs",
+              "ToolTip": "F:\\FullStack C#\\.Net Demos\\DatabasefirstApproach\\DatabasefirstApproach\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "DatabasefirstApproach\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:42:57.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
